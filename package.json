@@ -1,10 +1,11 @@
 {
-"homepage": "http://jesulonimi21.github.io/ReactIpfs",
+  "homepage": "http://jesulonimi21.github.io/ReactIpfs",
   "name": "save_toipfs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@aeternity/aepp-sdk": "^6.0.0",
+    "gh-pages": "^2.2.0",
     "ipfs-api": "^26.1.2",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
